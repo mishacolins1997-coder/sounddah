@@ -1,0 +1,4 @@
+.sound-dah-row { display:flex; align-items:center; gap:10px; margin:6px 0; }
+.sound-dah-row input[type=range] { flex:1; }
+.sound-dah-row .sd-val { min-width:48px; text-align:right; opacity:.8; }
+.sound-dah-hint { opacity:.7; font-size:.85em; margin-top:6px; }
